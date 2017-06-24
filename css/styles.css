@@ -1,0 +1,93 @@
+.title-text {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.row-stacked {
+  margin-top: -10px;
+}
+
+.row-stacked .col-12 {
+  margin-top: 0;
+  margin-bottom: 0;
+
+}
+
+.pull-right {
+  text-align: right;
+}
+
+.detail-box p {
+  font-size: 1rem;
+}
+
+.detail-box .small-header {
+  font-size: .9rem;
+}
+.center-text {
+  text-align: center;
+}
+
+.sub-header {
+  font-size: 1.5rem;
+  background: #2CC13A;
+  color: white;
+  text-align: center;
+}
+
+.hide-overflow {
+  overflow: hidden;
+}
+
+h2.interlude-text {
+  text-align: center;
+  color: #7F7F7F;
+}
+
+h2.interlude-text * {
+  color: #7F7F7F;
+}
+
+p {
+  display: inline;
+}
+
+.info-block {
+  padding: .5rem 2%;
+  margin: 0 !important;
+  background-color: #DDDAC2;
+}
+
+.vinus-img {
+  margin-top: 2.5rem;
+}
+
+.center-block {
+  padding: 5rem 3rem;
+}
+.grey-bg {
+  background-color: #6B6D61;
+}
+.grey-bg * {
+  color: #DDDAC2;
+}
+
+.grey-bg .border-right {
+  //height: 100%;
+  border-right: #DDDAC2 solid 2px;
+  margin-right: -2px;
+}
+
+.detail-box.col-6 * {
+  color: #000;
+}
+
+.boho-title {
+  font-size: 2rem;
+  margin: 0;
+  padding: 3rem 0;
+  text-transform: uppercase;
+}
+.boho-subtitle {
+  font-size: 1.25rem;
+}
